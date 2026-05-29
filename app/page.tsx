@@ -251,7 +251,7 @@ export default function NubagonLanding() {
         <section className="hero">
           <div className="hero__container">
             <div className="hero__content">
-              <h1>Transformamox tus ideas en soluciones digitales</h1>
+              <h1>Transformamoxx tus ideas en soluciones digitales</h1>
               <p>
                 Somos expertos en desarrollo web, digitalizacion y software personalizado. 
                 Llevamos tu negocio al siguiente nivel con tecnologia de vanguardia.
